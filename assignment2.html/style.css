@@ -33,6 +33,7 @@ div {
     background-color:#70CCC2;
     text-align: center;
     margin:auto;
+    vertical-align:middle;
 
   }
   .light{
@@ -42,6 +43,7 @@ div {
     background-color:#7EE5DA;
     text-align: center;
     margin:auto;
+    vertical-align:middle;
 
   }
   .dark {
@@ -52,6 +54,7 @@ div {
     background-color: #62B3AA;
     text-align: center;
     margin:auto;
+    vertical-align:middle;
    
    
   }

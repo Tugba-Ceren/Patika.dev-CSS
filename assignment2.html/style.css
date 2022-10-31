@@ -1,0 +1,78 @@
+.logo{
+    padding: 0px 600px;
+}
+div {
+    
+}
+  
+  .grey {
+    background-color: #eee;
+    text-align: center;
+    height:60px;
+  }
+  
+  p {
+    margin: 0px;
+    padding: 5px;
+  }
+  
+  input[type="email"],
+  button,
+  a {
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+  }
+  
+  .medium {
+    display:inline-block;
+    width: 300px;
+    height: 100px;
+    background-color:#70CCC2;
+    text-align: center;
+    margin:auto;
+
+  }
+  .light{
+    display:inline-block;
+    width: 600px;
+    height: 100px;
+    background-color:#7EE5DA;
+    text-align: center;
+    margin:auto;
+
+  }
+  .dark {
+    
+    display:inline-block;
+    width: 600px;
+    height: 100px;
+    background-color: #62B3AA;
+    text-align: center;
+    margin:auto;
+   
+   
+  }
+  .white2{
+    text-align: center;
+  }
+  
+  input,
+  select {
+    border-top: 2px solid #484848;
+    border-left: 2px solid #484848;
+    border-right: 1px solid #e4e1dc;
+    border-bottom: 1px solid #e4e1dc;
+    box-shadow: 1px 1px white;
+  }
+  
+  button {
+    background: #d4d0c8;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-bottom: 2px solid #555;
+    border-right: 2px solid #555;
+    padding: 2px 10px;
+  }
